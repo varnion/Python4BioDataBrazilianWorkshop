@@ -1,4 +1,3 @@
-# Bem-vindo ao Workshop de Python para Dados Biológicos
 
 - [Inicio](index.md)
 - [Cronograma](docs/cronograma.md)
@@ -6,6 +5,8 @@
 - [Material Python](docs/python.md)
 - [Problema 1](docs/problema1.md)
 - [Problema 2](docs/problema2.md)
+
+# Bem-vindo ao Workshop de Python para Dados Biológicos
 
 ## Sobre o evento
 
@@ -67,13 +68,23 @@ Nos dias 10 e 11 de Novembro de 2017
 
 ## Patrocinadores
 
+<img src="https://santosrac.github.io/Python4BioDataBrazilianWorkshop/imagens/1 Illumina.jpg"/> 
+
 * [Illumina](https://www.illumina.com/)
+
+<img src="https://santosrac.github.io/Python4BioDataBrazilianWorkshop/imagens/3 Exxtend.png"/> 
 
 * [Exxtend](https://www.exxtend.com.br/)
 
+<img src="https://santosrac.github.io/Python4BioDataBrazilianWorkshop/imagens/image001(1).png"/> 
+
 * [Beckman Coulter](https://www.beckmancoulter.com/)
 
+<img src="https://santosrac.github.io/Python4BioDataBrazilianWorkshop/imagens/2 Logo_LabJBPesq.jpg"/> 
+
 * [JB Pesquero Laboratório](www.labjbpesquero.com.br/)
+
+<img src="https://santosrac.github.io/Python4BioDataBrazilianWorkshop/imagens/4 thermo-fisher-scientific-logo.jpg"/> 
 
 * [Thermo Fisher Scientific](https://www.thermofisher.com/br/pt/home.html)
 

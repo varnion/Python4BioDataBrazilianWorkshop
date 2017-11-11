@@ -1,6 +1,3 @@
-# Guia de Instalação
-
-
 - [Inicio](../index.md)
 - [Cronograma](cronograma.md)
 - [Guia de Instalação](guia_de_instalacao.md)
@@ -8,6 +5,8 @@
 - [Problema 1](problema1.md)
 - [Problema 2](problema2.md)
 
+
+# Guia de Instalação
 
 
 Algumas **bibliotecas** e **ferramentas** serão utilizadas nesse workshop para podermos mostrar a você o incrível poder da linguagem **Python**.
@@ -26,6 +25,12 @@ Ao final desse guia, você deverá ter instalado no seu computador:
 * [Python 3.6](https://www.python.org/)
 * [Anaconda](https://docs.continuum.io/)
 * Bibliotecas [NumPy](http://www.numpy.org/), [SciPy](https://www.scipy.org/), [pandas](http://pandas.pydata.org/), [Jupyter](http://jupyter.org/) entre outras.
+
+### Ir para
+* [Guia de Instalação para Windows](#guia-de-instala%C3%A7%C3%A3o-para-windows)
+* [Guia de Instalação para Linux](#guia-de-instalação-para-linux)
+* [Instalando Python e o IDLE](#instalando-python-e-o-idle)
+* [Testando o Jupyter Notebook](#testando-o-jupyter-notebook)
 
 
 ## Guia de Instalação para Windows
@@ -100,11 +105,11 @@ Após a conclusão do download, abra o **Terminal** e vá para a pasta **Downloa
 
 Em seguida, se o seu sistema operacional for de **64 bits**, inicie a instalação executando:
 
-    bash Anaconda3-5.0.0.1-Linux-x86_64.sh
+    bash Anaconda3-5.0.1-Linux-x86_64.sh
 
 Do contrário, se seu sistema operacional for de **32 bits**, inicie a instalação executando:
 
-    bash Anaconda3-5.0.0.1-Linux-x86.sh
+    bash Anaconda3-5.0.1-Linux-x86.sh
 
 A instalação será iniciada no terminal exibindo o **termo de licença** do Anaconda, continue pressionando **Enter** para ler o **termo**. 
 
